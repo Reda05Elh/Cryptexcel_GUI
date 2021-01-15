@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Resource">
+        <file>com.cmd</file>
+        <file>CSVToxlsx.vbs</file>
+        <file>recom.cmd</file>
+    </qresource>
+</RCC>
